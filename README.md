@@ -9,7 +9,7 @@
 - <em>Contacto:</em>
    - <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="gMail" width="15" height="15"><em><b>  estanguet570@gmail.com</b></em>
   - <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="15" height="15"> 
-    <a href="https://www.linkedin.com/in/pablo-estanguet/" target="_blank"><em><b>  Pablo Estanguet</b></em></a>
+    <a href="https://www.linkedin.com/in/pablo-estanguet/" target="\_blank"><em><b>  Pablo Estanguet</b></em></a>
 </br>
 
 <div class="tecnologias">
