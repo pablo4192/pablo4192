@@ -4,7 +4,7 @@
 
 </br>
 
-- :books: <em>Cursando Tecnicatura Superior en Programación - UTN Avellaneda</em>
+- :books: <em>Tecnicatura Superior en Programación - <b>UTN Avellaneda</b> - Últimas materias en curso</em> 
 - :briefcase: <em>Actualmente creando proyectos para mi portfolio personal</em>
 - <em>Contacto:</em>
    - <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="gMail" width="15" height="15"><em><b>  estanguet570@gmail.com</b></em>
