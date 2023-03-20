@@ -4,12 +4,6 @@
 
 </br>
 
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/78236424/226148492-f280aadc-a4e6-4749-a96c-d6f5640b246e.gif" width="800" height="250">
-</div>
-
-</br>
-
 - :books: <em>Estudiando Tecnicatura Superior En Programación en UTN Avellaneda</em>
 - :briefcase: <em>Actualmente creando proyectos para mi portfolio personal</em>
 - <em>Contacto:</em>
