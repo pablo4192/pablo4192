@@ -35,7 +35,7 @@
 <div class="herramientas">
   <h2>Herramientas</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="vs" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vsCode" width="40" height="40">
    <img src="https://user-images.githubusercontent.com/78236424/226347240-ab162e17-e98e-4826-a815-fa0542b36ce2.svg" alt="postman" width="40" height="40">
    
